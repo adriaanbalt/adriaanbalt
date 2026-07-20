@@ -1,6 +1,16 @@
-# Adriaan Balt
+<div align="center">
 
-Forward Deployed Engineer. I embed with teams, ship AI-native workflows, and own the outcome end-to-end.
+# Hey, I'm Adriaan Balt 👋
+
+**Forward Deployed Engineer · Full-Stack · AI Workflows · Customer Engineering**
+
+Building tech since 2005
+
+[🌐 Website](https://www.adriaanbalt.com/) · [💼 LinkedIn](https://linkedin.com/in/adriaanbalt) · [𝕏 Twitter](https://x.com/adriaanbalt)
+
+</div>
+
+I embed with teams, ship AI-native workflows, and own the outcome end-to-end.
 
 ## What I'm building
 
