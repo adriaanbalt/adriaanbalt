@@ -22,3 +22,4 @@ I start with the real problem, not the interesting one. Ship a working version i
 |------|-----------|
 | [diffusers](https://github.com/adriaanbalt/diffusers) | Cursor rules + skills + hooks for onboarding engineers onto a convention-heavy library (HuggingFace diffusers) |
 | [cursor.rules.prompts](https://github.com/adriaanbalt/cursor.rules.prompts) | Reusable Cursor rules, hooks, and skills for common development workflows |
+
