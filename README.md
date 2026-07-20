@@ -36,6 +36,7 @@ I start with the real problem, not the interesting one. Ship a working version i
 
 | Repo | What it is |
 |------|-----------|
+| [spec-to-pr-agent](https://github.com/adriaanbalt/spec-to-pr-agent) | Spec → PR agent — multi-step planning with validation gates, convention-aware codegen, programmatic diffs, evals, CLI + dashboard |
 | [repo-health-agent](https://github.com/adriaanbalt/repo-health-agent) | Production-hardened GitHub repo health scoring — deterministic scores, optional LLM explanations, fixtures, evals, CLI + dashboard |
 | [diffusers](https://github.com/adriaanbalt/diffusers) | Cursor rules + skills + hooks for onboarding engineers onto a convention-heavy library (HuggingFace diffusers) |
 | [ai.rules.prompts](https://github.com/adriaanbalt/ai.rules.prompts) | Reusable Cursor rules, hooks, and skills for common development workflows |
