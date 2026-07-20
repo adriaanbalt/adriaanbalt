@@ -32,6 +32,14 @@ I embed with teams, ship AI-native workflows, and own the outcome end-to-end.
 
 **Integrations & ops:** Salesforce / Slack / Gong / Stripe / Inngest / Sentry / Redis / Upstash / Auth0
 
+<div align="center">
+
+<img src="./periodic-table-of-ai.jpeg" alt="Agentic AI Periodic Table" width="700" />
+
+<sub>Agentic AI Periodic Table by <a href="https://genai.works">GenAI.works</a></sub>
+
+</div>
+
 ## How I work
 
 I start with the real problem, not the interesting one. Ship a working version in days, harden it over weeks, hand it off so it runs without me. Every system I build is designed to be owned by someone else after I leave.
