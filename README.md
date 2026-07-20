@@ -24,7 +24,7 @@ I embed with teams, ship AI-native workflows, and own the outcome end-to-end.
 
 **Data:** PostgreSQL / Neon / Supabase / MotherDuck / DuckDB / SQLMesh / dlt / BigQuery / Snowflake / pgvector
 
-**Cloud:** AWS (Lambda, S3, SES) / GCP / Vercel / Render
+**Cloud & infra:** AWS (Lambda, S3, SES) / GCP / Vercel / Render / Hetzner / Cloudflare / Docker
 
 **AI:** LLMs in production (OpenAI, LangChain, Agno, evals, Langfuse, prompt engineering) / Cursor (rules, skills, hooks, agents, MCP)
 
