@@ -10,7 +10,15 @@ Forward Deployed Engineer. I embed with teams, ship AI-native workflows, and own
 
 ## Stack
 
-TypeScript / Next.js / Python / FastAPI / PostgreSQL / LLMs in production (OpenAI, evals, prompt engineering) / Cursor (rules, skills, hooks, agents, MCP) / Vercel / Supabase
+**Languages & frameworks:** TypeScript / Next.js / React / Python / FastAPI / Vite
+
+**Data:** PostgreSQL / Neon / Supabase / MotherDuck / DuckDB / SQLMesh / dlt / BigQuery / Snowflake / pgvector
+
+**Cloud:** AWS (Lambda, S3, SES) / GCP / Vercel / Render
+
+**AI:** LLMs in production (OpenAI, LangChain, Agno, evals, Langfuse, prompt engineering) / Cursor (rules, skills, hooks, agents, MCP)
+
+**Integrations & ops:** Salesforce / Slack / Gong / Stripe / Inngest / Sentry / Redis / Upstash / Auth0
 
 ## How I work
 
@@ -22,4 +30,3 @@ I start with the real problem, not the interesting one. Ship a working version i
 |------|-----------|
 | [diffusers](https://github.com/adriaanbalt/diffusers) | Cursor rules + skills + hooks for onboarding engineers onto a convention-heavy library (HuggingFace diffusers) |
 | [cursor.rules.prompts](https://github.com/adriaanbalt/cursor.rules.prompts) | Reusable Cursor rules, hooks, and skills for common development workflows |
-
