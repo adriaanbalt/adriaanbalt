@@ -4,8 +4,6 @@
 
 **Forward Deployed Engineer · Full-Stack · AI Workflows · Customer Engineering**
 
-Building tech since 2005
-
 [🌐 Website](https://www.adriaanbalt.com/) · [💼 LinkedIn](https://linkedin.com/in/adriaanbalt) · [𝕏 Twitter](https://x.com/adriaanbalt)
 
 </div>
